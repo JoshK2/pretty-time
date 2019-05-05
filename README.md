@@ -18,4 +18,5 @@ Include pretty-time.js:
 ```
 `4h 30m 8s`
 
-See the [demo.html](https://toarm.github.io/pretty-time/demo.html) for examples.
+See the [demo.html](https://toarm.github.io/pretty-time/demo.html) for examples.  
+Try in live [PlayGround](https://bit.dev/toarm/pretty-time/pretty-time)
